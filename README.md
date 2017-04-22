@@ -1,4 +1,5 @@
-# comics
+#Comics
+
 ##Opens rss feed from list
 This was created to open updated webcomics with a single click.
 
