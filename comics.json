@@ -1,0 +1,33 @@
+{
+    "comic_rss": [
+        {
+            "link": "http://www.gogetaroomie.com/rss.php",
+            "last": "Fri, 21 Apr 2017 00:00:00 -0400"
+        },
+        {
+            "link": "http://www.questionablecontent.net/QCRSS.xml",
+            "last": "Thu, 20 Apr 2017 20:43:17 -0300"
+        },
+        {
+            "link": "https://xkcd.com/rss.xml",
+            "last": "Fri, 21 Apr 2017 04:00:00 -0000"
+        },
+        {
+            "link": "http://www.gunnerkrigg.com/rss.xml",
+            "last": "Fri, 21 Apr 2017 00:00:00 -0700"
+        },
+        {
+            "link": "http://www.dumbingofage.com/feed/",
+            "last": "Sat, 22 Apr 2017 04:01:00 +0000"
+        },
+        {
+            "link": "http://www.alicegrove.com/rss",
+            "last": "Sat, 15 Apr 2017 13:19:26 -0400"
+        },
+        {
+            "link": "http://amultiverse.com/feed/",
+            "last": "Mon, 10 Apr 2017 21:25:30 +0000"
+        }
+    ],
+    "default_site": "http://google.ca"
+}
